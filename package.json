@@ -2,7 +2,7 @@
   "name": "redux-flop",
   "description": "Wrap generator on prototype in a flo creator.",
   "repository": "git://github.com/joshrtay/redux-flop.git",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
