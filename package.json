@@ -9,7 +9,10 @@
     "postversion": "git push && git push --tags && npm publish --access=public"
   },
   "dependencies": {
+    "@f/bind-middleware": "^1.1.1",
+    "@f/compose": "^1.0.0",
     "@f/foreach-obj": "^1.0.1",
+    "@f/is-generator": "^1.3.2",
     "redux-flo": "^1.0.5"
   },
   "devDependencies": {
